@@ -18,7 +18,6 @@ p, li {
     font-size: 20px;
 }
 .minha-foto {
-    margin: 45px;
     border-radius: 20%;
     float: left;
     max-width: 40%;
@@ -26,15 +25,13 @@ p, li {
     background-color: #fcd5ce;
 }
 .texto-bruna {
-    margin: 45px;
     float: right; 
     font-family: "Comic Neue", sans-serif;
     font-size: 25px;
-    max-width: 40%;
+    max-width: 50%;
 }
 .demais-conteudos {
-    margin-top: 1000px;
-
+    clear: both;
 }
 h2 {
     font-family: "Patua One", sans-serif;
@@ -50,4 +47,7 @@ h2 {
 }
 .indice {
     font-size: 25px;
+}
+.impar {
+    list-style-type: circle;
 }
