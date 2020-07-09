@@ -4,17 +4,37 @@ body {
 }
 div.nome {
     font-family: "Dancing Script", sans-serif;
-    font-weight: 700;
+    font-weight: 500 px;
     color: #ffffff;
-    font-size: 60px;
+    font-size: 40px;
     text-align: center;
+}
+.cabeçalho {
+    margin: 35px;
+    padding: 35px;
 }
 p, li {
     font-family: "Comic Neue", sans-serif;
     font-size: 20px;
 }
-#foto {
+.minha-foto {
+    margin: 45px;
     border-radius: 20%;
+    float: left;
+    max-width: 40%;
+    padding: 15px;
+    background-color: #fcd5ce;
+}
+.texto-bruna {
+    margin: 45px;
+    float: right; 
+    font-family: "Comic Neue", sans-serif;
+    font-size: 25px;
+    max-width: 40%;
+}
+.demais-conteudos {
+    margin-top: 1000px;
+
 }
 h2 {
     font-family: "Patua One", sans-serif;
