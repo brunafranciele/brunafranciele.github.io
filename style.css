@@ -1,13 +1,18 @@
 
 body {
-    background-color: #ffb4a2;
+    background-color: #f88493d7;
 }
 div.nome {
     font-family: "Dancing Script", sans-serif;
     font-weight: 500 px;
-    color: #ffffff;
+    color: #faeff1;
     font-size: 40px;
     text-align: center;
+    background-image: url(imagens/fundo.jpg);
+    background-size: 100%;
+    background-position: 50% 30%;
+    margin-top: 0px;
+    padding: 25px;
 }
 .cabeçalho {
     margin: 35px;
@@ -32,6 +37,7 @@ p, li {
 }
 .demais-conteudos {
     clear: both;
+    padding: 15px;
 }
 h2 {
     font-family: "Patua One", sans-serif;
