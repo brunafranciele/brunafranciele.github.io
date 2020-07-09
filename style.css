@@ -2,11 +2,12 @@
 body {
     background-color: #ffb4a2;
 }
-h1 {
+div.nome {
     font-family: "Dancing Script", sans-serif;
     font-weight: 700;
     color: #ffffff;
     font-size: 60px;
+    text-align: center;
 }
 p, li {
     font-family: "Comic Neue", sans-serif;
